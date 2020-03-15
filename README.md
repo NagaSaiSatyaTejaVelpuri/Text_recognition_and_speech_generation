@@ -52,4 +52,4 @@ Else you can also run this code via any other .py ide such as spyder. But you'll
       check whether pytesseract,gTTS and tesseract ocr 
       are installed properly.
 
-                                                                                                     - V.N.S. Satya Teja
+                                                                                                  - V.N.S. Satya Teja
