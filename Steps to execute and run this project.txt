@@ -1,0 +1,31 @@
+           Text recognition and speech conversion
+                                                                   
+
+1.  Download python idle from python.org 
+2.  Install python using normal process 
+3.  Download pycharm community edition 
+4.  Install pycharm
+5.  Install pytesseract using command prompt
+"pip install pytesseract"
+6.  Install gTTS using command prompt
+"pip install gTTS"
+7.  Download tesseract executible file from: 
+"https://github.com/UB-Mannheim/tesseract/wiki"
+8.  Run that 'tesseract________.exe' file and install.
+8.  Download the 'folder-21' from the drive and 
+save in some location;say D-drive or E-drive etc.
+9.  Open pycharm--> Click on 'Open' --> Open the 
+above downloaded folder 
+10.Now open the python code file and run it.
+11.Check for errors:
+      If pytesseract not found error, try by changing the 
+      command  from "import pytesseract" to 
+      "from pytesseract import pytesseract" and
+      from line 5, remove "pt" and from line 7,
+      replace pt with pytesseract.
+      Else any, check for the directory error and 
+      check whether pytesseract,gTTS and tesseract ocr 
+      are installed properly.
+
+                                                                 - V.N.S. Satya Teja,
+                                                                   Ramson TechLabs  
